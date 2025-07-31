@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Gordon",
+    "age": 84,
+    "address": {
+        "street": "Kevin Gateway",
+        "city": "New Susan",
+        "state": "New Mexico",
+        "zip": "41207"
+    },
+    "contact": {
+        "phone": "782.445.8766",
+        "servicePhone": "800882647"
+    },
+    "birthday": "1941-29-05",
+    "ip": "69.101.198.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Already describe price course. Later last these interesting. College range before value through firm approach. Reveal boy poor return then herself recent.",
+        "bio": "Design country every officer. Including leader smile any.\nBoard college space fly of. Dog expect picture natural accept."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
